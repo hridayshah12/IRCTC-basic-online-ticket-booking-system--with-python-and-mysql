@@ -18,7 +18,7 @@ This project is a basic online ticket booking system for IRCTC, developed using 
 
  Prerequisites
 
-- Python 3.x
+- Python 3.6.5
 - MySQL Server
 - mysql-connector-python library
 
